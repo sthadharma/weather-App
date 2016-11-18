@@ -6,8 +6,8 @@
   "scripts": {
     "start" : "node server .js"
   },
-  "author": "Andrew Mead",
-  "license": "MIT",
+  "author": "Dharma",
+  "license": "",
   "dependencies": {
     "express": "^4.13.4",
     "react": "^0.14.7",
